@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="w">
+    <file>kisspng-silhouette-user-person-5af561e0d05e80.6195115515260308168535.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-oracle-database-computer-icons-logo-encapsulated-p-storage-5ac32ed8635aa6.116548351522740952407.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-gear-logo-computer-icons-setting-5b132e8306d092.0958083315279837470279.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-computer-icons-icon-design-delete-button-5abcecff15c4a2.6087623815223308790892.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-writing-infographic-writer-homework-essay-admin-icon-5b46fc45988424.9295077215313787576247.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>043 New York.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>5a22ab40db9903.7207742415122215048995.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-computer-icons-icon-design-business-administration-admin-icon-5b46fc46cb14d0.3170199515313787588318.png</file>
+  </qresource>
+</RCC>

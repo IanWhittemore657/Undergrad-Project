@@ -1,0 +1,4 @@
+disableddatabase
+RFID
+1234
+10.25.8.124
